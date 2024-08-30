@@ -6,8 +6,7 @@
 ### Live Demo
 [Live Demo](https://open-projects.streamlit.app/)
 
-### YouTube
-[Watch the video](https://www.youtube.com/watch?v=YkPxL-XLM7I)
+
 
 # FEATURES:
 
@@ -31,112 +30,6 @@
 8. **Quartiles (Q1 and Q3)**: The 25th and 75th percentiles.
 9. **Quartile Deviation**: Half the interquartile range.
 10. **Mean Deviation**: The average absolute deviation from the mean.
-
-# OTHER VIDEO SERIES:
-
-### Data Science Web Development Job Recommendation System
-
-1. **Part 1**: [Introduction](https://youtu.be/yzp2HIZRyHA)
-2. **Part 2**: [Admin Theme](https://youtu.be/yzU4LapsCpk)
-3. **Part 3**: [Model Training and Prediction](https://youtu.be/fLZCsJHaYeM)
-4. **Part 4**: [View, URL, and Template Rendering](https://youtu.be/7WdS3JpjQZM)
-5. **Part 5**: [How to Generate 10000 Fake Dataset CSV](https://youtu.be/KoKzEuweae8)
-6. **Episode 6**: [Project Overview](https://youtu.be/R1sdxL51X00)
-
-# OTHER STREAMLIT VIDEO SERIES
-
-1. **Business Analytics Web Dashboard**
-   - [Live Demo](https://open-projects.streamlit.app/)
-   - [YouTube](https://youtu.be/YkPxL-XLM7I)
-
-2. **Analytics Website Dashboard**
-   - [Live Demo](https://open-projects.streamlit.app/)
-   - [YouTube](https://youtu.be/pWxDxhWXJos)
-
-3. **Logistic Multiple Regression Analytics Web**
-   - [YouTube](https://youtu.be/WV5WhbeJ1TA)
-   - [Live Demo](https://open-findings.streamlit.app/)
-
-4. **Normal Probability Distribution Analytics Web**
-   - [Live Demo](https://normal-distribution.streamlit.app/)
-   - [YouTube](https://youtu.be/9JhRtXUdUYs)
-
-5. **Python: Query Operations**
-   - [Live Demo](https://python-query.streamlit.app/)
-   - [YouTube](https://youtu.be/n6-5l7dzSlk)
-
-6. **Python: Binomial Probability Distributions**
-   - [Live Demo](https://binomial-probability.streamlit.app/)
-   - [YouTube](https://youtu.be/fZPqU320YX4)
-
-7. **Hypothesis Testing T Distribution Curve**
-   - [Live Demo](https://hypothesis.streamlit.app/)
-   - [YouTube](https://youtu.be/VvoeqYPyjR0)
-
-8. **Frequency Distribution Table**
-   - [Live Demo](https://frequency-distributions.streamlit.app/)
-   - [YouTube](https://youtu.be/bGi2zdezJQg)
-
-9. **Geo Referencing Business Trends**
-   - [Live Demo](https://open-analytics.streamlit.app/)
-   - [YouTube](https://youtu.be/RRZ4l6JeNGI)
-
-10. **Multiple Linear Regression Web Project**
-    - [Live Demo](https://business-analytical.streamlit.app/)
-    - [YouTube](https://youtu.be/VeP0c-ZPkD8)
-
-11. **Python: Web Dashboard: DashPlotly Framework and Dash**
-    - [Live Demo](https://python13.onrender.com/)
-    - [YouTube](https://youtu.be/EMA75EEORoI)
-
-12. **Python: Web Dashboard using DashPlotly Framework**
-    - [Live Demo](https://project-fpy1.onrender.com/)
-    - [YouTube](https://youtu.be/5SbIGjhkez0)
-
-13. **Python: Multiple Linear Regression**
-    - [Live Demo](https://business-force.streamlit.app/)
-    - [YouTube](https://youtu.be/y5GRNibPiW4)
-
-14. **Logistic Regression Analysis**
-    - [Live Demo](https://open-projects.streamlit.app/)
-    - [YouTube](https://youtu.be/5ab1L5li8z4)
-
-15. **PygWalker Graph Creator**
-    - [Live Demo](https://open-projects.streamlit.app/)
-    - [YouTube](https://youtu.be/JeoYZkmeYTo)
-
-16. **Sales Analytics Web Dashboard**
-    - [Live Demo](https://open-projects.streamlit.app/)
-    - [YouTube](https://youtu.be/uDuPM4xfPlw)
-
-17. **Analytics Dashboard with MySQL**
-    - [Live Demo](https://open-projects.streamlit.app/)
-    - [YouTube](https://youtu.be/rJzBNm0rb0g)
-
-18. **Business Intelligent Analytics Web Dashboard**
-    - [Live Demo](https://open-projects.streamlit.app/)
-    - [YouTube](https://youtu.be/mDJ-sKB7DvE)
-
-19. **Descriptive Analytics Web Dashboard 1**
-    - [Live Demo](https://open-projects.streamlit.app/)
-    - [YouTube](https://youtu.be/sIqBA0PhzGQ)
-
-20. **Descriptive Analytics Web Dashboard 2**
-    - [Live Demo](https://shamiraty-numbersummary-percentiles-main-bng7ov.streamlit.app/)
-    - [YouTube](https://youtu.be/U7vf-DB_KmQ)
-
-21. **Analytics Dashboard Website with Graphs 3**
-    - [Live Demo](https://open-projects.streamlit.app/)
-    - [YouTube](https://youtu.be/-cg3qPhI74s)
-
-22. **Add new Record to Excel file via Web Interface**
-    - [Live Demo](https://shamiraty-add-data-to-excel-streamlit-main-4mef19.streamlit.app/)
-    - [YouTube](https://youtu.be/-3q2rwuy99g)
-
-23. **CrossTabulation Web App**
-    - [Live Demo](https://shamiraty-crosstabulation-main-b2c61u.streamlit.app/)
-    - [YouTube](https://youtu.be/1fnq4CzezxQ)
-
 
 
 ![2](https://github.com/shamiraty/OPEN-STREAMLIT-PROJECTS/assets/129072179/e70c9c86-926a-48e0-ae5e-ad51fec5dad6)
@@ -164,23 +57,11 @@
 ![12](https://github.com/shamiraty/OPEN-STREAMLIT-PROJECTS/assets/129072179/819035cf-67a6-4086-860c-786f213e2123)   
 ![15](https://github.com/shamiraty/OPEN-STREAMLIT-PROJECTS/assets/129072179/e8eb4977-8775-4921-8a82-9a71a1ecb0b3)
 
-### Contact Information
 
-#### WhatsApp
-- +255675839840
-- +255656848274
 
-#### YouTube
-[YouTube Channel](https://www.youtube.com/channel/UCjepDdFYKzVHFiOhsiVVffQ)
 
-#### Telegram
-- +255656848274
-- +255738144353
 
-#### PlayStore
-[PlayStore Developer Page](https://play.google.com/store/apps/dev?id=7334720987169992827&hl=en_US&pli=1)
-
-#### GitHub
-[GitHub Profile](https://github.com/shamiraty/)
+#### created by
+KETAN ARORA
 
 
